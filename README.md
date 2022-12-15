@@ -1,6 +1,3 @@
-# rielec
-Rielec Technical Test
-
 Full stack application, for the visualization and manipulation of the information contained in the database. Fron end developed in Vue.js with bootstrap and axios integration, and backend in springboot with mysql and jpa integration.
 
 Versions:
